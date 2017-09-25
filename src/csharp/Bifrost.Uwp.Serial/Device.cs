@@ -10,8 +10,8 @@ namespace Bifrost.Uwp.Serial
     public class Device : IDevice
     {
         public Device(
-            int writeTimeOut = 15, 
-            int readTimeout = 15, 
+            int writeTimeOut = 150, 
+            int readTimeout = 150, 
             uint baudRate = 9600, 
             SerialParity parity = SerialParity.None, 
             SerialStopBitCount stopBits = SerialStopBitCount.One,
