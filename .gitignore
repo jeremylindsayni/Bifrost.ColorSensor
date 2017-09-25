@@ -1,3 +1,6 @@
 /src/csharp/Bifrost.ColorSensor/Bifrost.ColorSensor_TemporaryKey.pfx
 bin
 obj
+/src/csharp/.vs/Bifrost.ColorSensor/v15/*.suo
+/src/csharp/Bifrost.ColorSensor/*.user
+/src/csharp/.vs/Bifrost.Dht11Sample/v15/*.suo
